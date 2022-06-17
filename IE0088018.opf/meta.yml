@@ -1,0 +1,56 @@
+id: IE0088018
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:21:54.310217'
+last_modified: '2022-06-17T12:21:54.310228'
+parser: null
+source_metadata:
+  title: Kurukullā Series
+  language: en
+  description: 'Texts related to Kurukullā (rig byed ma)—also known to Tibetans as
+    Kurukulle—a deity of the Lotus family associated with the activity of magnetization
+    or enchantment and one of the twenty-one Tārā emanations:'
+  volume:
+    f3111:
+      title: Guru Yoga Focusing upon Noble Kurukullā
+      base_file: f3111.txt
+      order: 1
+      parent: Guru Yoga
+    f8278:
+      title: A Sādhana of Kurukullā from the Tidro Dharma Cycle
+      base_file: f8278.txt
+      order: 2
+      parent: Sādhanas
+    f5A21:
+      title: A Sādhana of Kurukullā
+      base_file: f5A21.txt
+      order: 3
+      parent: Sādhanas
+    f47C2:
+      title: Short Sang Offering to Kurukullā
+      base_file: f47C2.txt
+      order: 4
+      parent: Sang Offering
+    f0904:
+      title: 'The Lotus Net: A Sang Offering to the Mighty Lotus Ḍākinī, Kurukullā'
+      base_file: f0904.txt
+      order: 5
+      parent: Sang Offering
+    f34F4:
+      title: Short Torma Offering to Kurukullā
+      base_file: f34F4.txt
+      order: 6
+      parent: Torma Offering
+    f99E9:
+      title: Short Tsok Offering to the Powerful Lady Kurukullā
+      base_file: f99E9.txt
+      order: 7
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
